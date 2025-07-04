@@ -143,8 +143,9 @@ void loop() {
 
   delay(2000);
 }
-![alt text](image.png)
-
+
+![Diagrama de conexión](Diagrama%20de%20conexi%C3%B3n.png)
+
 
 13. Integración con Firebase (próximos pasos)
 - Instalar librería Firebase ESP32.
